@@ -1,0 +1,9 @@
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\bin\Debug\DİZİ.exe
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\bin\Debug\DİZİ.pdb
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\obj\x86\Debug\DİZİ.Form1.resources
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\obj\x86\Debug\DİZİ.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\obj\x86\Debug\DİZİ.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\obj\x86\Debug\DİZİ.exe
+C:\Users\Win10\Desktop\nesne\DİZİ\DİZİ\obj\x86\Debug\DİZİ.pdb
+C:\Users\Win10\Desktop\nesne\DİZİ(ad getirme)\DİZİ\obj\x86\Debug\DİZİ.exe
+C:\Users\Win10\Desktop\nesne\DİZİ(ad getirme)\DİZİ\obj\x86\Debug\DİZİ.pdb
